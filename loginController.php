@@ -1,5 +1,7 @@
 <?php
-/* controler by BadFoxer  used for get current user records and delete  */
+/* controler by BadFoxer  used for get current user records and delete 
+run this command before using Auth 
+php artisan make:auth  */
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request; // this class used send request to server
